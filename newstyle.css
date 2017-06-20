@@ -1,0 +1,27 @@
+#menu {
+  padding-top: 2cm;
+  padding-left: 2cm;
+  border-radius: 2cm
+}
+
+.hi {
+  border-style: dotted;
+}
+
+h3, .hi, .this, .sucks {
+  padding-left: 2cm
+}
+
+#footer {
+  text-align: center;
+  font-family: Helvetica
+}
+
+.this {
+  background-image: url(images/dream.png);
+}
+
+a:visited {
+  color: gray;
+}
+
